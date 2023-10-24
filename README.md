@@ -1,15 +1,17 @@
-### Hello 👋
+## Hello, There 👋
 
-<!--
-**hyeonheebee/hyeonheebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+<hr>
 
-- 🔭 I’m currently working on ...KEPCO(PowerTransform and Transmission Academy department)
-- 🌱 I’m currently learning ...IOS, Swift, UIkit
-- 📫 How to reach me: ...hyunheeshim0103@gmail.com
-- 😄 Pronouns: ..."slow, steady, but just do it"
-- ⚡ More about me: ...[네이버블로그-more private](https://blog.naver.com/hee_storys) / [개발블로그-more technical](https://velog.io/@hyeonhee_bee)
+### About Me
+🔭 I’m currently working on ...KEPCO(PowerTransform and Transmission Academy department)
+🌱 I’m currently learning ...IOS, Swift, UIkit
+📫 How to reach me: ...hyunheeshim0103@gmail.com
+😄 these days: ..."slow, steady, but just do it"
+⚡ More about me: ...[네이버블로그-more private](https://blog.naver.com/hee_storys) / [개발블로그-more technical](https://velog.io/@hyeonhee_bee)
+
+
+
+<hr>
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">

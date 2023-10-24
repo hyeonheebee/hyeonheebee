@@ -17,7 +17,7 @@
 > - [네이버블로그-히수토리](https://blog.naver.com/hee_storys) --more private
 > - [벨로그](https://velog.io/@hyeonhee_bee) --more technical
 
-### 🎈Soon: ...
+### 🎈 Soon: ...
 > 2024년 Apple Developer Academy 3기 과정 진행 예정(batch1 합격)
 
 

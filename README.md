@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/swift-232F3E?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/swift-FE452A?style=for-the-badge&logo=swift&logoColor=white">
 
 </div>
 <div>

@@ -13,7 +13,7 @@
 ### 😄 these days: ...
 > "slow, steady, but just do it"
 ### ⚡ More about me: ...
-> [네이버블로그-more private](https://blog.naver.com/hee_storys) / [개발블로그-more technical](https://velog.io/@hyeonhee_bee)
+> [네이버블로그-히수토리](https://blog.naver.com/hee_storys) --more private / [개발블로그](https://velog.io/@hyeonhee_bee) --more technical
 
 
 

@@ -39,6 +39,6 @@
 
   #### design
 <img src="https://img.shields.io/badge/figma-7952B3?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/blender-F05032?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/blender-F69455?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/illustrator-FCC624?style=for-the-badge&logo=illustrator&logoColor=black">
 </div>

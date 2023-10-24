@@ -5,15 +5,15 @@
 ## About Me
 
 ### 🔭 I’m currently working on ...
-KEPCO(PowerTransform and Transmission Academy department)
+> KEPCO(PowerTransform and Transmission Academy department)
 ### 🌱 I’m currently learning ...
-IOS, Swift, UIkit
+> IOS, Swift, UIkit
 ### 📫 How to reach me: ...
-hyunheeshim0103@gmail.com
+> hyunheeshim0103@gmail.com
 ### 😄 these days: ...
-"slow, steady, but just do it"
+> "slow, steady, but just do it"
 ### ⚡ More about me: ...
-[네이버블로그-more private](https://blog.naver.com/hee_storys) / [개발블로그-more technical](https://velog.io/@hyeonhee_bee)
+> [네이버블로그-more private](https://blog.naver.com/hee_storys) / [개발블로그-more technical](https://velog.io/@hyeonhee_bee)
 
 
 

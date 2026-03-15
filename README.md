@@ -4,21 +4,22 @@
 
 ## About Me
 
-### 🔭 I’m currently working on ...
-> KEPCO-PowerTransform and Transmission Academy department(more 4years)
+### 🔭 I’m currently on ...
+> KRAFTON (Developer Relations Manager) (about 1year)
+> EX) Apple Developer Academy (about 1year)
+> EX) KEPCO-PowerTransform and Transmission Academy department(more 5years)
 ### 🌱 I’m currently learning ...
-> IOS, Swift, UIkit
+> AI, Python
 ### ✨ My favorite: ...
 >Making something useful, Design, Writing, Reading, Listening, Communication, Stay Healthy(Mental, Pyhsical)
 ### 😄 these days: ...
 > "steady, but just do it"
 ### ⚡ More about me: ...
 > - [Linked-In 프로필](https://www.linkedin.com/in/hyeonhee-shim-970456163/)
-> - [네이버블로그-히수토리](https://blog.naver.com/hee_storys) --more private
 > - [벨로그](https://velog.io/@hyeonhee_bee) --more technical
 
 ### 🎈 Soon: ...
-> 2024년 Apple Developer Academy 3기 과정 진행 예정(batch1 합격)
+> 
 
 
 <hr>

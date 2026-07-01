@@ -5,7 +5,8 @@
 ## About Me
 
 ### 🔭 I’m currently on ...
-> KRAFTON (Developer Relations Manager) (about 1year)
+> Working With AI , AX enablement in Company, AI Literacy, AX engineering
+> EX ) KRAFTON (Developer Relations Manager) (1year Contract)
 > EX) Apple Developer Academy (about 1year)
 > EX) KEPCO-PowerTransform and Transmission Academy department(more 5years)
 ### 🌱 I’m currently learning ...
